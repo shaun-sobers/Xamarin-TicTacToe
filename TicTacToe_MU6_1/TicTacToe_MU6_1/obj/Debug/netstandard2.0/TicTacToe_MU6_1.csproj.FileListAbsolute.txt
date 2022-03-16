@@ -1,0 +1,16 @@
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\bin\Debug\netstandard2.0\TicTacToe_MU6_1.deps.json
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\bin\Debug\netstandard2.0\TicTacToe_MU6_1.dll
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\bin\Debug\netstandard2.0\ref\TicTacToe_MU6_1.dll
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\bin\Debug\netstandard2.0\TicTacToe_MU6_1.pdb
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\TicTacToe_MU6_1.csproj.AssemblyReference.cache
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\TicTacToe_MU6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\TicTacToe.xaml.g.cs
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\TicTacToe_MU6_1.AssemblyInfoInputs.cache
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\TicTacToe_MU6_1.AssemblyInfo.cs
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\TicTacToe_MU6_1.csproj.CoreCompileInputs.cache
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\TicTacToe_MU6_1.dll
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\ref\TicTacToe_MU6_1.dll
+C:\Users\renanbarros\source\repos\TicTacToe_MU6_1\TicTacToe_MU6_1\TicTacToe_MU6_1\obj\Debug\netstandard2.0\TicTacToe_MU6_1.pdb
